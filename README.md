@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakhar Dhyani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhardhyan&label=Profile%20views&color=0e75b6&style=flat" alt="prakhardhyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhardhyani&label=Profile%20views&color=0e75b6&style=flat" alt="prakhardhyani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhardhyan" alt="prakhardhyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhardhyani" alt="prakhardhyani" /></a> </p>
 
 - 🌱 I’m currently learning **Modern javascript**
 
